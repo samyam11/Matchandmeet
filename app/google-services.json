@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "187858600762",
+    "firebase_url": "https://matchandmeet-bc2bd.firebaseio.com",
+    "project_id": "matchandmeet-bc2bd",
+    "storage_bucket": "matchandmeet-bc2bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187858600762:android:e08a0cdb37f626c974c603",
+        "android_client_info": {
+          "package_name": "com.e.matchandmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187858600762-m5jtmubljhbkgh9uqhg8i1nlblcdh78o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.matchandmeet",
+            "certificate_hash": "237a6daa2cedc3ea2509383f2ea426dcce75e8e1"
+          }
+        },
+        {
+          "client_id": "187858600762-t9b0vijr4mrob130dihirdn1sqknfmaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiABymXCoSQ3if-xlj_1c7XqRYWmY1Wxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187858600762-t9b0vijr4mrob130dihirdn1sqknfmaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
